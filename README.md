@@ -37,7 +37,7 @@
 ### 📬 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sri-charan-kolachalama-79009a22b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/sricharankolachalama/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
   <a href="mailto:sricharankolachlama@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"/></a>
   <a href="https://github.com/SriCharanKolachalama"><img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge"/></a>
 </p>
